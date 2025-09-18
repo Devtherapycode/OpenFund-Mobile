@@ -6,14 +6,6 @@ A Flutter-based mobile application for supporting content creators through donat
 
 OpenFund is a donation platform that enables fans to support their favorite streamers and YouTubers. Built with Flutter for iOS and Android.
 
-## Features
-
-- Discover new creators
-- Follow your favorite streamers and YouTubers  
-- Manage donations through integrated wallet
-- User profiles and settings
-- Native iOS and Android support
-
 ## Getting Started
 
 ### Prerequisites
@@ -79,7 +71,7 @@ flutter build apk
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Please feel free to submit a Pull Request or open any issue if you find bugs or have suggestions.
 
 ## License
 
